@@ -143,14 +143,13 @@
 	            </exclusions>
         	</dependency>
 	</dependencies>
-	<dependencies>
-		<!-- https://mvnrepository.com/artifact/org.jacoco/jacoco-maven-plugin -->
+	<!-- <dependencies>
 		<dependency>
 		    <groupId>org.jacoco</groupId>
 		    <artifactId>jacoco-maven-plugin</artifactId>
 		    <version>0.7.7.201606060606</version>
 		</dependency>
-	</dependencies>
+	</dependencies> -->
 	<build>
 		<plugins>
 			<plugin>
